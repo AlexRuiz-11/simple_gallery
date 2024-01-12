@@ -12,16 +12,17 @@
 <!-- PROJECT DESCRIPTION -->
 # Galeria de fotos online
 
-Esto es una web muy simple que tiene el objetivo de almacenar fotografias. El sistema organizativo es parecido a un explorador de archivos. El codigo utilizado no es eficiente y dista mucho de un codigo profesional. No obtante, este cumple su funcion.
+Esto es una web muy simple que tiene el objetivo de almacenar imágnenes. El sistema organizativo es parecido al de un explorador de archivos. El código utilizado no es eficiente y dista mucho de un código profesional. No obtante, este cumple su función. Puede que en el futuro me dedique a actualizarlo.
 
-Añadir:
+A continuación enumero una lista con las funciones que se deberían añadir a la web:
+
  - Descripcion a cada imagen.
  - Sistema de etiquetas de imagenes (#Hashtags).
  - Barra superior de búsqueda por nombre de imagen o hastags.
  - Filtros para #Hashtags.
 
 
- <!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
