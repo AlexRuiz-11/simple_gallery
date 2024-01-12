@@ -20,6 +20,7 @@ A continuación enumero una lista con las funciones que se deberían añadir a l
  - Sistema de etiquetas de imagenes (#Hashtags).
  - Barra superior de búsqueda por nombre de imagen o hastags.
  - Filtros para #Hashtags.
+ - Añadir visualizacion para videos.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
