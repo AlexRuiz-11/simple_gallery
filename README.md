@@ -1,4 +1,4 @@
-# AlexRuiz-11.github.io
+# Simple Gallery
 
 <a name="readme-top"></a>
 
@@ -13,15 +13,6 @@
 # Galeria de fotos online
 
 Esto es una web muy simple que tiene el objetivo de almacenar imágnenes. El sistema organizativo es parecido al de un explorador de archivos. El código utilizado no es eficiente y dista mucho de un código profesional. No obtante, este cumple su función. Puede que en el futuro me dedique a actualizarlo.
-
-A continuación enumero una lista con las funciones que se deberían añadir a la web:
-
- - Descripcion a cada imagen.
- - Sistema de etiquetas de imagenes (#Hashtags).
- - Barra superior de búsqueda por nombre de imagen o hastags.
- - Filtros para #Hashtags.
- - Añadir visualizacion para videos.
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
